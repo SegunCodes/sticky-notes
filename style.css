@@ -11,7 +11,7 @@ body {
   background-color: #333;
   z-index: 7;
   padding: 15px 0px;
-  margin-left: 15px;
+  margin-left: 5px;
 }
 #ts {
   color: #ffd31d;
@@ -29,6 +29,7 @@ body {
   width: 30%;
   margin: 15px;
   outline: none;
+  text-decoration: none;
 }
 
 .hidden {
@@ -91,6 +92,7 @@ ul li h2 {
   font-size: 1.2rem;
   font-weight: bold;
   padding-bottom: 10px;
+  word-wrap: break-word;
 }
 
 ul li p {
