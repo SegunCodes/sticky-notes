@@ -1,0 +1,10 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "xyz.appmaker.kotpxc",
+      "sha256_cert_fingerprints": ["79:74:D0:F9:A4:D2:86:59:EE:CE:78:4A:CE:59:4E:70:FD:A2:AE:5A:7A:98:40:E6:00:D1:65:0F:87:C3:6B:11"]
+    }
+  }
+]
